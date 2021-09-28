@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/repository-react-create/static/css/main.a617e044.chunk.css",
+    "main.js": "/repository-react-create/static/js/main.8921a306.chunk.js",
+    "main.js.map": "/repository-react-create/static/js/main.8921a306.chunk.js.map",
+    "runtime-main.js": "/repository-react-create/static/js/runtime-main.e8b2f559.js",
+    "runtime-main.js.map": "/repository-react-create/static/js/runtime-main.e8b2f559.js.map",
+    "static/js/2.fd9e1971.chunk.js": "/repository-react-create/static/js/2.fd9e1971.chunk.js",
+    "static/js/2.fd9e1971.chunk.js.map": "/repository-react-create/static/js/2.fd9e1971.chunk.js.map",
+    "static/js/3.fb7c0d1e.chunk.js": "/repository-react-create/static/js/3.fb7c0d1e.chunk.js",
+    "static/js/3.fb7c0d1e.chunk.js.map": "/repository-react-create/static/js/3.fb7c0d1e.chunk.js.map",
+    "index.html": "/repository-react-create/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/repository-react-create/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.fd9e1971.chunk.js.LICENSE.txt": "/repository-react-create/static/js/2.fd9e1971.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/repository-react-create/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8b2f559.js",
+    "static/js/2.fd9e1971.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.8921a306.chunk.js"
+  ]
+}
